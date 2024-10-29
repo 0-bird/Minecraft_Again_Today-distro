@@ -12,7 +12,7 @@
       "name": "오늘도 마크",
       "description": "Minecraft_Again_Today Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": "https://raw.githubusercontent.com/0-bird/Minecraft_Again_Today-distro/main/serverIMG.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "1.244.162.48",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -500,6 +500,16 @@
             "size": 6638739,
             "url": "https://raw.githubusercontent.com/0-bird/Minecraft_Again_Today-distro/main/servers/Minecraft_Again_Today-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
             "MD5": "35b39b4a71a92e5424ea84bc626f62db"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4944,
+            "url": "https://raw.githubusercontent.com/0-bird/Minecraft_Again_Today-distro/main/servers/Minecraft_Again_Today-1.20.1/files/options.txt",
+            "path": "options.txt"
           }
         }
       ]
