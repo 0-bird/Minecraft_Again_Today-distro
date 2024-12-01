@@ -12,8 +12,8 @@
       "name": "오늘도 마크",
       "description": "Minecraft_Again_Today Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": "https://raw.githubusercontent.com/0-bird/Minecraft_Again_Today-distro/main/serverIMG.png",
-      "version": "1.0.2",
-      "address": "1.244.162.48",
+      "version": "1.0.3",
+      "address": "125.140.189.232",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
